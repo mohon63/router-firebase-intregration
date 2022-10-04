@@ -18,6 +18,7 @@ const Header = () => {
                     <button onClick={handleSignOut}>Sign Out</button>
                     // <button onClick={handleSignOut}>Sign Out</button>
                     // <button onClick={handleSignOut}>Sign Out</button>
+                    // <button onClick={handleSignOut}>Sign Out</button>
                     :
                     <Link to="/login">Login</Link>
                 }
