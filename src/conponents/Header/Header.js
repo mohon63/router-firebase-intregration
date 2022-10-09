@@ -7,7 +7,6 @@ const Header = () => {
     const { user, handleSignOut } = useFirebase();
     return (
         <div className='header'>
-            {/* <div className='header'> */}
             <nav>
                 <Link to="/">Home</Link>
                 <Link to="/products">Products</Link>
