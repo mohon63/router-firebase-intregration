@@ -19,6 +19,7 @@ const Header = () => {
                     user && <>
                         <Link to="/vip">VIP</Link>
                         {/* <Link to="/vip">VIP</Link> */}
+                        {/* <Link to="/vip">VIP</Link> */}
                     </>
                 }
 
