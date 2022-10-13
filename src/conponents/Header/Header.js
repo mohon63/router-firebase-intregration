@@ -21,6 +21,7 @@ const Header = () => {
                         {/* <Link to="/vip">VIP</Link> */}
                         {/* <Link to="/vip">VIP</Link> */}
                         {/* <Link to="/vip">VIP</Link> */}
+                        {/* <Link to="/vip">VIP</Link> */}
                     </>
                 }
 
