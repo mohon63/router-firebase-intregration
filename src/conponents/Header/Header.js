@@ -11,6 +11,7 @@ const Header = () => {
     const [user] = useAuthState(auth)
     // const [user] = useAuthState(auth)
     // const [user] = useAuthState(auth)
+    // const [user] = useAuthState(auth)
     return (
         <div className='header'>
             <nav>
